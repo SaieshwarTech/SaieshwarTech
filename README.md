@@ -1,9 +1,17 @@
-- 🔥 Hi, I’m @SaieshwarTech  
-- 👀 I’m interested in cybersecurity, ethical hacking, and web development.  
-- 🌱 I’m currently learning advanced coding techniques and database management systems.  
-- 💞️ I’m looking to collaborate on innovative tech projects and open-source cybersecurity tools.  
-- 📫 How to reach me: [your email or LinkedIn link]  
-- 🧑‍💻 Pronouns: He/Him  
-- ⚡ Fun fact: I love remixing songs and exploring graphic design in my free time!  
 
 
+🔥 Hey, I’m @SaieshwarTech
+
+Cybersecurity Specialist | Ethical Hacker | Full-Stack Developer
+
+🚀 What I’m Into:
+	•	Breaking & securing systems with ethical hacking
+	•	Crafting dynamic & secure web applications
+	•	Mastering advanced coding & database management
+
+💡 Let’s Build Something Awesome!
+	•	Open-source cybersecurity tools
+	•	High-performance web & app development
+	•	Innovative tech projects that push boundaries
+
+📬 Let’s Connect: s_ai2000@yahoo.com
