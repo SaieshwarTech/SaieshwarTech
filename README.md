@@ -38,18 +38,70 @@
 
 ---
 
-## 🧠 Profile
+<p align="center">
 
-Working at the intersection of AI, automation, and cybersecurity.
+<a href="https://saieshwar.xyz">
+  <img src="https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome&logoColor=white" />
+</a>
 
-Focused on performance, scalability, and security — with a strong bias toward execution and real-world impact.
+<a href="mailto:saieshwardev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://in.linkedin.com/in/saieshwar-malkarnekar-a3592a2">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/m.saieshwarr">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.producthunt.com/@saieshwar">
+  <img src="https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=producthunt&logoColor=white" />
+</a>
+
+<a href="https://github.com/SaieshwarTech">
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/saieshwar.malkarnekr">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+</a>
+
+</p>
 
 ---
+
+---
+
+Glad to see you here!
+
+I'm **Saieshwar**, a developer focused on **AI, automation, and cybersecurity**.
+
+I enjoy turning ideas into real, working products — exploring how intelligent systems, automation, and secure architectures can solve practical problems.
+
+My approach is simple:  
+build consistently, learn fast, and improve with every iteration.
+
+---
+
+I’m currently focused on:
+
+- Developing AI-driven applications and workflows  
+- Building automation systems for efficiency and growth  
+- Exploring cybersecurity and system-level thinking  
+- Strengthening full-stack development skills  
+
+---
+
+Outside of tech, I’m interested in growth, discipline, and building a long-term vision around technology and innovation.
+
+Always open to connecting with people who are building, learning, or creating something meaningful 🚀
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,python,fastapi,postgres,mongodb,redis,docker" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,nodejs,express,python,fastapi,flask,java,kotlin,cpp,c,go,php,mysql,postgres,mongodb,redis,firebase,supabase,docker,kubernetes,aws,gcp,vercel,netlify,nginx,git,github,linux,bash,figma,postman" />
 </p>
 
 ---
