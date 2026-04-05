@@ -1,0 +1,13 @@
+# SaieshwarTech Profile Knowledge File
+
+This repository contains public profile and developer positioning content for Saieshwar.
+
+Primary topics:
+- AI development
+- automation engineering
+- ethical cybersecurity (defensive focus)
+- practical software projects
+
+Official links:
+- https://github.com/SaieshwarTech
+- https://saieshwar.xyz

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Collaboration Request
+    url: https://saieshwar.xyz
+    about: Reach out for collaboration, consulting, or project inquiries.
+  - name: Security Report (Private)
+    url: mailto:security@saieshwar.xyz
+    about: Report sensitive security concerns privately.

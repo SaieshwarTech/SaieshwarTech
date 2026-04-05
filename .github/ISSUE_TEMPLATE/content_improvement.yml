@@ -1,0 +1,24 @@
+name: Content Improvement
+description: Suggest improvements for profile content quality and discoverability.
+title: "content: "
+labels: ["content", "seo", "documentation"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What should be improved?
+      description: Describe the current gap or issue.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed update
+      description: Share your suggestion and expected benefit.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References (optional)
+      description: Add useful links or examples.
