@@ -1,72 +1,121 @@
-# Saieshwar
+<h1 align="center">Saieshwar</h1>
 
-I am an AI Developer, Automation Engineer, and Cybersecurity Enthusiast focused on building practical, production-grade systems.  
-I design and ship automation systems, secure digital products, and scalable AI workflows for modern businesses.  
-Based in India, I work at the intersection of software engineering, security, and applied AI.
+<p align="center">
+  <b>AI Developer • Automation Engineer • Cybersecurity Enthusiast</b>
+</p>
 
-## Focus Areas
+<p align="center">
+  Building intelligent, scalable, and secure digital systems.
+</p>
 
-- AI systems for workflow optimization and decision support
-- Automation platforms for lead generation, operations, and growth
-- Cybersecurity tools for proactive risk detection and security testing
-- Full-stack development for reliable and scalable product delivery
-
-## Featured Work
-
-### AI SEO Automation System
-An automated platform that handles keyword intelligence, content workflows, and ranking optimization using AI-driven pipelines.
-
-### AI Lead & Revenue System
-A full-cycle automation engine for identifying qualified prospects, enriching lead data, and supporting revenue-focused outreach workflows.
-
-### AI Security Scanner
-An AI-assisted security analysis tool that scans applications for vulnerabilities, flags high-risk patterns, and improves developer security posture.
-
-## Tech Stack
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- Python
-- FastAPI
-
-### AI
-- OpenAI APIs
-- LangChain
-- RAG pipelines
-- Prompt engineering
-
-### Databases
-- PostgreSQL
-- MongoDB
-- Redis
-
-### Security
-- OWASP practices
-- Vulnerability assessment
-- Secure coding standards
-
-## Current Work
-
-- Building automation systems for marketing, sales, and internal operations
-- Developing secure AI products as a full stack AI engineer
-- Advancing practical security tooling as a cybersecurity developer
-- Expanding technical content and project updates at saieshwar.xyz
-- Positioning as an ai developer india for high-impact product and systems work
-
-## Contact
-
-- Email: [saieshwardev@gmail.com](mailto:saieshwardev@gmail.com)
-- Website: https://saieshwar.xyz
+<p align="center">
+  <a href="https://saieshwar.xyz">🌐 Website</a> • 
+  <a href="mailto:saieshwardev@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-Saieshwar  
-https://saieshwar.xyz  
-[saieshwardev@gmail.com](mailto:saieshwardev@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Automation+Builder;Cybersecurity+Mindset;Consistency+Over+Motivation" />
+</p>
+
+---
+
+## ⚡ Digital Presence
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaieshwarTech&color=blue" />
+  <img src="https://img.shields.io/github/followers/SaieshwarTech?style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/SaieshwarTech?style=flat&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI-blue" />
+  <img src="https://img.shields.io/badge/Focus-Automation-green" />
+  <img src="https://img.shields.io/badge/Focus-Security-red" />
+  <img src="https://img.shields.io/badge/Mindset-Builder-black" />
+</p>
+
+---
+
+## 🧠 Profile
+
+Working at the intersection of AI, automation, and cybersecurity.
+
+Focused on performance, scalability, and security — with a strong bias toward execution and real-world impact.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,python,fastapi,postgres,mongodb,redis,docker" />
+</p>
+
+---
+
+## 📊 Core Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaieshwarTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaieshwarTech&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SaieshwarTech&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity & Growth
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaieshwarTech&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Deep Metrics
+
+<p align="center">
+  <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=189324946&image_size=auto" height="160"/>
+  <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?user_id=189324946&image_size=auto" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?user_id=189324946&image_size=auto" height="160"/>
+  <img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?user_id=189324946&image_size=auto" height="160"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Scaling AI-driven workflows  
+- Strengthening cybersecurity depth  
+- Improving consistency and discipline  
+- Building long-term technical authority  
+
+---
+
+## 🔐 Principles
+
+- Security-first mindset  
+- Scalable architecture thinking  
+- Automation > repetition  
+- Execution > ideas  
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+  <b>Discipline builds everything.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00f7ff&height=120&section=footer"/>
+</p>
