@@ -100,29 +100,7 @@ Always open to connecting with people who are building, learning, or creating so
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=
-  react,nextjs,ts,js,html,css,tailwind,bootstrap,
-  flutter,dart,androidstudio,kotlin,java,
-  nodejs,express,nestjs,
-  python,fastapi,flask,django,
-  cpp,c,go,rust,
-  tensorflow,pytorch,opencv,sklearn,
-  linux,bash,
-  docker,kubernetes,
-  aws,gcp,azure,cloudflare,
-  nginx,
-  git,github,gitlab,
-  mysql,postgres,mongodb,redis,
-  firebase,supabase,
-  graphql,apollo,
-  prisma,
-  selenium,
-  postman,
-  figma,
-  vite,webpack
-  " />
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,flutter,dart,androidstudio,kotlin,java,nodejs,express,nestjs,python,fastapi,flask,django,cpp,c,go,rust,tensorflow,pytorch,opencv,sklearn,linux,bash,docker,kubernetes,aws,gcp,azure,cloudflare,nginx,git,github,gitlab,mysql,postgres,mongodb,redis,firebase,supabase,graphql,apollo,prisma,selenium,postman,figma,vite,webpack,redux,threejs,electron,tauri,jenkins,ansible" /></p>
 
 ---
 
